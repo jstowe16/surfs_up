@@ -5,10 +5,12 @@ W. Avy requested weather station data for Oahu in support of securing investment
 ## Results
 ### June Temperature
 The June temperature summary statistics for 2010 to 2017 are provided in the image below.
+
 ![image](/Resources/June_temp_stats.png)
 
 ### December Temperature
 The December temperature summary statistics for 2010 to 2017 are provided in the image below.
+
 ![image](/Resources/Dec_temp_stats.png)
 
 ### Comparison
